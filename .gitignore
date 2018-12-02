@@ -3,6 +3,10 @@ bin-debug/
 bin-release/
 [Oo]bj/
 [Bb]in/
+Library/
+Packages/
+Temp/
+game.sln
 
 # Other files and folders
 .settings/
